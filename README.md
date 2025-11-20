@@ -1,5 +1,7 @@
 # Analysis-and-Visualization-of-COVID-19-Dataset
 
+## NAME: ESHWAR T
+## REGISTER NUMBER:21223230054
 ## Aim
 
 To analyse a large real-world COVID-19 dataset using Python by performing data exploration and visualizing key trends through various plots such as line graph, bar chart, pie chart, scatter plot, and histogram for meaningful insights.
